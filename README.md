@@ -1,5 +1,12 @@
 # React + Vite
 
+
+App #1 - React Course
+1. General configuration with Vite
+2. Components
+3. PropTypes
+4. useState hook
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
